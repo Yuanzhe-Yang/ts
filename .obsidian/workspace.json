@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Ts.md",
+                "file": "info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-Ts"
+              "title": "info"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "175d104dea912561",
@@ -173,8 +172,9 @@
   },
   "active": "930fa0d9f84ad7cf",
   "lastOpenFiles": [
+    "Welcome.md",
+    "info.md",
     "01-Ts.md",
-    "Untitled.base",
-    "Welcome.md"
+    "Untitled.base"
   ]
 }
